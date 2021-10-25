@@ -2,7 +2,7 @@
 
 ## "Ghostly Manor"
 
-> *Welcome to **Ghostly Manorn**, your new home! You just bought an awesome house for an awesome price, don't let its name (or the fact that you were the only one at the open house) get you mad.
+> *Welcome to **Ghostly Manor**, your new home! You just bought an awesome house for an awesome price, don't let its name (or the fact that you were the only one at the open house) get you mad.
 > We're going to give you a classy and completely normal gift to debut your new home: a ball gun and a robotic suit.*
 > 
 > *Maybe I forgot to mention something: we couldn't get rid of the last tenants, they are so in love with this house that they even hid in the paintings.*
@@ -10,7 +10,7 @@
 > *PS: They're afraid of yellow spheres, so don't let them touch you if you don't have any near!!!!*
 > 
 > 
-> *Cheers and please keep alive! ~~I don't want to scam someone again~~ get throw this again. *
+> *Cheers and please keep alive! ~~I don't want to scam someone again~~ get throgh this again. *
 > 
 > ***Miriam López Sierra - Real State Agent***
 > 
@@ -22,12 +22,12 @@
 
 ## Game design
 
-This game is simple: you have to achieve the highest score withouut dying.
+This game is simple: you have to achieve the highest score without dying.
 
 ### Player
-You will controll an android whose task will be end with the ghost tenants. For this porpose you'll have a gun that shoots yellow balls.
+You will control an android whose task will be end with the ghost tenants. For this purpose you'll have a gun that shoots yellow balls.
 
-You'll have to hit them a couple of times before they dissapear (the remaining health will be displayed on top of the enemy as a red progress bar.
+You'll have to hit them a couple of times before they dissapear (the remaining health will be displayed on top of the enemy as a red progress bar)
 
 ### Enemies
 The enemies are ghosts, 
@@ -49,6 +49,7 @@ You have some pickups spawners in order to recover health
 ![alt Health pickup](https://github.com/mirlop01/Unreal-project/blob/master/Content/House/Images/Health_pickup.png)
 
 or ammo.
+
 ![alt Ammo pickup](https://github.com/mirlop01/Unreal-project/blob/master/Content/House/Images/Ammo_pickup.png)
 
 It will be automatically and randomly generated after being taken.
@@ -67,7 +68,7 @@ The Scenery was created using the starter content meshes that are provided by th
 The mechanics were developed using blueprints.
 
 ### Enemies
-The enemies behaviour were developed using basic AI. For this we used a [ behaviour tree](https://github.com/mirlop01/Unreal-project/tree/master/Content/Blueprints/Enemy).
+The enemies behaviour were developed using basic AI. For this we used a [behaviour tree](https://github.com/mirlop01/Unreal-project/tree/master/Content/Blueprints/Enemy).
 
 ## References
 - Documentation given in the course
