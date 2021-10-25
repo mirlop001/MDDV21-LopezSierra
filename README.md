@@ -41,7 +41,7 @@ they will be running on their own until they see you, and at this point two thin
 
 If any of the ghosts has stolen your weapon it will glow with a yellow light and will run away from you, but remember, the other ghosts will still be trying to kill you!
 
-![alt Thief ghost](https://github.com/mirlop01/Unreal-project/blob/master/Content/House/Images/Evil_ghost.uasset)
+![alt Thief ghost](https://github.com/mirlop01/Unreal-project/blob/master/Content/House/Images/Stolen%20weapon.png)
 
 **Pickups**
 You have some pickups spawners in order to recover health
