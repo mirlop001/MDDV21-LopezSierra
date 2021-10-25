@@ -1,4 +1,8 @@
 # MDDV - Unreal Engine (Final project)
+*Design and created by Miriam López Sierra*
+
+**Genre: FPS**
+
 
 ## "Ghostly Manor"
 
@@ -28,6 +32,13 @@ This game is simple: you have to achieve the highest score without dying.
 You will control an android whose task will be end with the ghost tenants. For this purpose you'll have a gun that shoots yellow balls.
 
 You'll have to hit them a couple of times before they dissapear (the remaining health will be displayed on top of the enemy as a red progress bar)
+
+#### Controls
+- A, W, D, S -> Move across the house
+- Space -> Jump
+- Left Shift -> Sprint
+- Left mouse button -> Fire
+- Right mouse button -> Zoom
 
 ### Enemies
 The enemies are ghosts, 
