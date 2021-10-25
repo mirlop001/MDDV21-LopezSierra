@@ -10,7 +10,7 @@
 > *PS: They're afraid of yellow spheres, so don't let them touch you if you don't have any near!!!!*
 > 
 > 
-> *Cheers and please keep alive! ~~I don't want to scam someone again~~ get throgh this again. *
+> *Cheers and please keep alive! I don't want to ~~scam someone again~~ get throgh this again. *
 > 
 > ***Miriam López Sierra - Real State Agent***
 > 
