@@ -1,5 +1,5 @@
 # MDDV - Unreal Engine (Final project)
-*Design and created by Miriam López Sierra*
+*Designed and created by Miriam López Sierra*
 
 **Genre: FPS**
 
